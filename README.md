@@ -1,2 +1,2 @@
-# Prepcourse
-modulo2 soy henry 'Prep course'
+Nicolas
+este proyecto es para crear un repositorio y clonarlo desde github a mi escritorio local
